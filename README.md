@@ -1,2 +1,5 @@
-# byoa-golden-github-hub3
-golden fixture: hub3
+# golden CHANGED 4
+line two edited 4
+line three
+line four
+line five
